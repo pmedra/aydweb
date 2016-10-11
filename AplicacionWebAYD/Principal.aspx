@@ -22,9 +22,9 @@
             <br />
             <br />
             <br />
-            <asp:GridView ID="GridView1" runat="server">
+            <asp:GridView ID="GridView1" runat="server" OnRowEditing="GridView1_RowEditing" OnRowUpdated="GridView1_RowUpdated" OnRowUpdating="GridView1_RowUpdating" style="margin-bottom: 0px">
             </asp:GridView>
-            <br />
+            hola mundo<br />
             <br />
             <br />
             <br />

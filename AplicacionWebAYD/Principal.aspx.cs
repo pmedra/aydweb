@@ -21,19 +21,22 @@ namespace AplicacionWebAYD
                 Response.Redirect("Default.aspx", false);
             }
             userlabel.Text = name;
-            String connString = System.Configuration.ConfigurationManager.ConnectionStrings["Default"].ToString();
-            MySqlConnection conn = new MySqlConnection(connString);
-            MySqlCommand cmd = new MySqlCommand("SELECT * FROM usuario;", conn);
-            conn.Open();
-            DataTable dataTable = new DataTable();
-            MySqlDataAdapter da = new MySqlDataAdapter(cmd);
 
-            da.Fill(dataTable);
+            if (!Page.IsPostBack)
+            {
+                String connString = System.Configuration.ConfigurationManager.ConnectionStrings["Default"].ToString();
+                MySqlConnection conn = new MySqlConnection(connString);
+                MySqlCommand cmd = new MySqlCommand("SELECT * FROM usuario;", conn);
+                conn.Open();
+                DataTable dataTable = new DataTable();
+                MySqlDataAdapter da = new MySqlDataAdapter(cmd);
+
+                da.Fill(dataTable);
 
 
-            GridView1.DataSource = dataTable;
-            GridView1.DataBind();
-
+                GridView1.DataSource = dataTable;
+                GridView1.DataBind();
+            }
 
         }
 
@@ -43,6 +46,21 @@ namespace AplicacionWebAYD
             Session.Abandon();
             Response.BufferOutput = true;
             Response.Redirect("Default.aspx", false);
+        }
+
+        protected void GridView1_RowEditing(object sender, GridViewEditEventArgs e)
+        {
+
+        }
+
+        protected void GridView1_RowUpdated(object sender, GridViewUpdatedEventArgs e)
+        {
+
+        }
+
+        protected void GridView1_RowUpdating(object sender, GridViewUpdateEventArgs e)
+        {
+
         }
     }
 }
