@@ -5,6 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using MySql.Data.MySqlClient;
+using System.Data;
 namespace AplicacionWebAYD
 {
     public partial class Principal : System.Web.UI.Page
@@ -20,9 +21,9 @@ namespace AplicacionWebAYD
                 Response.Redirect("Default.aspx", false);
             }
             userlabel.Text = name;
-
-            MySqlConnection conn = new MySqlConnection(MyConString);
-            MySqlCommand cmd = new MySqlCommand("SELECT * FROM tablename;", conn);
+            String connString = System.Configuration.ConfigurationManager.ConnectionStrings["Default"].ToString();
+            MySqlConnection conn = new MySqlConnection(connString);
+            MySqlCommand cmd = new MySqlCommand("SELECT * FROM usuario;", conn);
             conn.Open();
             DataTable dataTable = new DataTable();
             MySqlDataAdapter da = new MySqlDataAdapter(cmd);
@@ -30,8 +31,8 @@ namespace AplicacionWebAYD
             da.Fill(dataTable);
 
 
-            GridVIew.DataSource = dataTable;
-            GridVIew.DataBind();
+            GridView1.DataSource = dataTable;
+            GridView1.DataBind();
 
 
         }

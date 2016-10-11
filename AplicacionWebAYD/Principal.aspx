@@ -7,7 +7,7 @@
     <title></title>
 </head>
 <body>
-    <p>PAGINA PRINCIPAL</p>
+    <H1>PAGINA PRINCIPAL</H1>
     <form id="form1" runat="server">
     <div>
         <asp:Button ID="logoutButton" Text="Salir" runat="server" OnClick="logoutButton_Click" />  
