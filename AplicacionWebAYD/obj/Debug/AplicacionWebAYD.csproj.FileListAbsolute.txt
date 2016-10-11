@@ -1,37 +1,6 @@
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\AplicacionWebAYD.dll.config
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\AplicacionWebAYD.dll
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\AplicacionWebAYD.pdb
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\Antlr3.Runtime.dll
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\AspNet.ScriptManager.jQuery.dll
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\DotNetOpenAuth.AspNet.dll
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\DotNetOpenAuth.Core.dll
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\DotNetOpenAuth.OAuth.Consumer.dll
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\DotNetOpenAuth.OAuth.dll
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\DotNetOpenAuth.OpenId.dll
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\EntityFramework.dll
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\EntityFramework.SqlServer.dll
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\Microsoft.AspNet.FriendlyUrls.dll
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\Microsoft.AspNet.Membership.OpenAuth.dll
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\Microsoft.ScriptManager.MSAjax.dll
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\Microsoft.ScriptManager.WebForms.dll
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\Microsoft.Web.Infrastructure.dll
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\System.Web.Optimization.dll
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\System.Web.Providers.dll
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\WebGrease.dll
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\EntityFramework.xml
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\EntityFramework.SqlServer.xml
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\System.Web.Providers.xml
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\DotNetOpenAuth.Core.xml
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\DotNetOpenAuth.OAuth.xml
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\DotNetOpenAuth.OAuth.Consumer.xml
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\DotNetOpenAuth.OpenId.xml
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\DotNetOpenAuth.AspNet.xml
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\Microsoft.AspNet.Membership.OpenAuth.xml
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\bin\Microsoft.AspNet.FriendlyUrls.xml
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\obj\Debug\AplicacionWebAYD.csprojResolveAssemblyReference.cache
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\obj\Debug\AplicacionWebAYD.dll
-c:\users\master\documents\visual studio 2013\Projects\AplicacionWebAYD\AplicacionWebAYD\obj\Debug\AplicacionWebAYD.pdb
+D:\Proyectos\AplicacionWebAYD\AplicacionWebAYD\bin\AplicacionWebAYD.dll.config
+D:\Proyectos\AplicacionWebAYD\AplicacionWebAYD\bin\AplicacionWebAYD.dll
+D:\Proyectos\AplicacionWebAYD\AplicacionWebAYD\bin\AplicacionWebAYD.pdb
+D:\Proyectos\AplicacionWebAYD\AplicacionWebAYD\obj\Debug\AplicacionWebAYD.csprojResolveAssemblyReference.cache
+D:\Proyectos\AplicacionWebAYD\AplicacionWebAYD\obj\Debug\AplicacionWebAYD.dll
+D:\Proyectos\AplicacionWebAYD\AplicacionWebAYD\obj\Debug\AplicacionWebAYD.pdb

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicacionWebAYD", "AplicacionWebAYD\AplicacionWebAYD.csproj", "{D450DEB8-7886-4420-AF4E-6A427CDFB67A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicacionWebAYD", "AplicacionWebAYD\AplicacionWebAYD.csproj", "{3C22E230-18E9-4959-B988-A5A19E14866D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D450DEB8-7886-4420-AF4E-6A427CDFB67A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D450DEB8-7886-4420-AF4E-6A427CDFB67A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D450DEB8-7886-4420-AF4E-6A427CDFB67A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D450DEB8-7886-4420-AF4E-6A427CDFB67A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C22E230-18E9-4959-B988-A5A19E14866D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C22E230-18E9-4959-B988-A5A19E14866D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C22E230-18E9-4959-B988-A5A19E14866D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C22E230-18E9-4959-B988-A5A19E14866D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
